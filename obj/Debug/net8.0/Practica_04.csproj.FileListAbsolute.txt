@@ -1,0 +1,7 @@
+C:\Users\tomas\source\repos\Practica_04\Practica_04\obj\Debug\net8.0\Practica_04.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Practica_04\Practica_04\obj\Debug\net8.0\Practica_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\Practica_04\Practica_04\obj\Debug\net8.0\Practica_04.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\Practica_04\Practica_04\obj\Debug\net8.0\Practica_04.AssemblyInfo.cs
+C:\Users\tomas\source\repos\Practica_04\Practica_04\obj\Debug\net8.0\Practica_04.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Practica_04\Practica_04\obj\Debug\net8.0\Practica_04.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tomas\source\repos\Practica_04\Practica_04\obj\Debug\net8.0\Practica_04.MvcApplicationPartsAssemblyInfo.cache
